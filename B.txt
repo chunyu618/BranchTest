@@ -1,1 +1,2 @@
 This is B
+this file is in branch B2
