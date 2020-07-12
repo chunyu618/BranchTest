@@ -1,1 +1,2 @@
 This is B
+This file is in branch master
